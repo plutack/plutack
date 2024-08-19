@@ -26,7 +26,7 @@ I'm a backend-focused software engineer passionate about building robust and sca
 
 - [Scissor](https://scissor.talut.tech) - A sleek URL shortening service offering custom links, QR code generation, and basic analytics to streamline link sharing and management.
 - [Frontpages](https://frontpages.talut.tech) - A site that showcases the front pages of popular newspapers in Nigeria.
-- [Resume Generator](https://github.com/plutack) - A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
+- [Resume Generator]([https://github.com/plutack](https://github.com/plutack/Resume-Generator)) - A project that leverages GitHub Actions to generate PDF and HTML versions of CVs for easy refactoring and user applications.
 
 ### Contact
 
