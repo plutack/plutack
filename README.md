@@ -30,7 +30,6 @@ I'm a backend-focused software engineer passionate about building robust and sca
 
 ### Contact
 
-- 📧 Email: salakotalut@gmail.com
 - 🐦 Twitter: [@salakotalut](https://twitter.com/salakotalut)
 - 💼 LinkedIn: [Talut Salako](https://www.linkedin.com/in/talut-salako/)
 
