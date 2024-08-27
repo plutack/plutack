@@ -2,13 +2,12 @@
 
 ## Backend Software Engineer
 
-I'm a backend-focused software engineer passionate about building robust and scalable server-side applications. I continuously learn and explore new technologies to enhance my skills in crafting efficient backend solutions.
+I'm a backend-focused software engineer passionate about building robust and scalable server-side applications. I continuously improve my knowledge on programming paradigms and explore new technologies to enhance my skills in crafting efficient backend solutions.
 
 ### About Me
 
 - 🎓 Graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023
-- 👨‍💻 Seeking entry-level roles as a Backend Engineer or Software Engineer
-- 🌱 Self-taught developer with a fast learning ability
+- 👨‍💻 Seeking roles as a Backend Engineer or Software Engineer
 - 🤝 Open to collaborating on open source projects
 
 ### Skills & Technologies
@@ -39,4 +38,4 @@ I'm a backend-focused software engineer passionate about building robust and sca
 
 ---
 
-I'm actively looking for entry-level opportunities in backend software engineering. Feel free to reach out if you'd like to connect or collaborate!
+I'm actively looking for oopportunities in backend software engineering. Feel free to reach out if you'd like to connect or collaborate!
