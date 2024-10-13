@@ -13,6 +13,7 @@ I'm a backend-focused software engineer passionate about building robust and sca
 ### Skills & Technologies
 
 - JavaScript, TypeScript, Node.js
+- GO
 - SQL, MongoDB
 - NextJS
 - Git, GitHub
